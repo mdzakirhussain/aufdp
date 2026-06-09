@@ -22,7 +22,9 @@ System Path (Manual Install): /opt/Xilinx/Vivado/2025.2/data/boards/board_files 
 Board Store Downloads (GUI Install): ~/.Xilinx/Vivado/2025.2/xhub/board_store/
 
 Tip for Adding Custom Boards (e.g., Digilent):
-If you are manually adding third-party board files, navigate to the System Path mentioned above. If the board_files folder does not exist inside the boards directory, you can simply create it and drop your extracted board folders inside. Restart Vivado for the new boards to appear in the project creation wizard.
+If you are manually adding third-party board files, navigate to the System Path mentioned above.
+If the board_files folder does not exist inside the boards directory, you can simply create it and drop your extracted board folders inside.
+Restart Vivado for the new boards to appear in the project creation wizard.
 
 ```
 - [Digilent Board files](https://digilent.com/reference/programmable-logic/guides/install-board-files?srsltid=AfmBOoqWfFq611GpB3bKmlTKF8pt-OIWqVDl92HQmkfxhl4Si97Gkrl3)
