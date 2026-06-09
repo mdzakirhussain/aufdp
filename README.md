@@ -3,6 +3,7 @@ Faculty Development Programme on Design to Device: A 3-day Hands-on Journey in V
 
 
 - [Arty-A7-100-Master.xdc](https://github.com/Digilent/digilent-xdc/blob/master/Arty-A7-100-Master.xdc)
+- Adding Board files
 
   ```
 Windows
