@@ -28,3 +28,7 @@ If you are manually adding third-party board files, navigate to the System Path 
 - [Digilent Board files](https://digilent.com/reference/programmable-logic/guides/install-board-files?srsltid=AfmBOoqWfFq611GpB3bKmlTKF8pt-OIWqVDl92HQmkfxhl4Si97Gkrl3)
 
 - [Digilent Board files-2](https://github.com/Digilent/vivado-boards/archive/master.zip)
+
+- [Arty A7-100T: Artix-7 FPGA Development Board](https://digilent.com/shop/arty-a7-100t-artix-7-fpga-development-board/?srsltid=AfmBOopf1SXuRtQbqtAy9wLRn9ONxaErdLClupWg00T2LS3sHTT_kPU0)
+
+- [Arty A7](https://digilent.com/reference/programmable-logic/arty-a7/start?srsltid=AfmBOooLLMF6m8wPf2ESOXcHK7LLwGRCyghSNrOMpeHiIJ4C5n7Ts9aA)
